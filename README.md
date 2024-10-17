@@ -4,7 +4,7 @@ This project conducts a semantic analysis of major philosophical works by **Albe
 
 By leveraging computational techniques, this analysis maps out thematic focuses in each text, providing a data-driven approach to understanding philosophical discourse. Visualizations such as **word clouds**, **ternary plots**, and **radar charts** are used to present these relationships in an accessible manner, offering new perspectives on existential and metaphysical philosophy.
 
-[Kaggle Link](https://www.kaggle.com/code/mertozcan/notebook3ca550a40d/edit/run/201560244)
+[Kaggle Link]([https://www.kaggle.com/code/mertozcan/notebook3ca550a40d/edit/run/201560244](https://www.kaggle.com/code/mertozcan/philosophical-text-analysis-with-word2vec))
 
 ## Key Features
 
