@@ -37,14 +37,15 @@ These texts provide a basis for comparative thematic analysis of existential and
 
 The analysis provides quantifiable insights into how concepts of **Death**, **Life**, and **Justice** are treated across different philosophical works, enabling a deeper understanding of existential and moral philosophy.
 
+## Results
+
+### Radar Chart
+[Open Radar Chart](https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/radar_chart.html)
+
+### Ternary Plot
+[Open Ternary Plot](https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/ternary_chart.html)
+
 ### Key Insights:
-
--**Radar Char result**:
-https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/radar_chart.html
--**Ternary Plot result**:
-https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/ternary_chart.html
-
-
 
 - **Albert Camus**: 
   - *The Stranger* has a strong thematic focus on **Death** with close ties to **Life**, reflecting absurdist themes.
