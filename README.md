@@ -40,8 +40,9 @@ The analysis provides quantifiable insights into how concepts of **Death**, **Li
 ### Key Insights:
 
 -**Radar Char result**:
-https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-                    oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/radar_chart.html
-
+https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/radar_chart.html
+-**Ternary Plot result**:
+https://kkb-production.jupyter-proxy.kaggle.net/k/201708728/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIn0..EwUGhX-DDHlBFssmZhgykA.RIHm4UDmE-ZZgiGTTohA-RX9d6-l8hC30HjyKPODH-tr2tMoy3yIa1xuqhlvMP_fFE_Vhl8z4lRR99talX0caBLqhZrRKYLT0mXODfn1pX-oANjinsAWoC_ezF027UfVpgPf0NNeaTts-H2q3fRn4QbZ_7unRkpRbw2t-oNOwTAIsg2ezMhSkWnRbmttph6x2TKJpf-2ASaVTBF7_cZCKw.JkGGg6NflU7xwJvZcKtW3w/proxy/files/ternary_chart.html
 
 
 
